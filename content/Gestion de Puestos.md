@@ -1,2 +1,2 @@
-ola soy juan
+ola soy juana
 [index](./index)
