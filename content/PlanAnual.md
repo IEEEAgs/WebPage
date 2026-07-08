@@ -8,6 +8,10 @@ title: PlanAnual
 ## Video Tutorial
 [Video Tutorial](https://www.youtube.com/watch?v=V822Udy-bpQ&feature=youtu.be)
 
+## IEEE Tutorials
+[IEEE Edit and Delete](https://kb.ieee.org/vtools/blog/kb/editing-a-student-branch-annual-plan/)
+[IEEE Create Student](https://kb.ieee.org/vtools/blog/kb/creating-a-student-branch-annual-plan/)
+
 ## Tutorial
 Iniciar sesion en [IEEE Student Branch Report](https://sbr.vtools.ieee.org/)
 ![image](src/Home/STB0.png)
