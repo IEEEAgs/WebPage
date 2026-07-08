@@ -1,6 +1,5 @@
 ---
-title: CrearunEvento
-tag : EventsVtool
+title: vToolsEvents
 ---
 
 [[index]]
@@ -56,3 +55,6 @@ Example: You can provide discounted pricing to IEEE members and student members.
 ![alt text](src/Home/image-9.png)
 
 Note: If you are using start and end times for registration levels, there can be no gaps between the end time of one level and the start time of another level! E.g. if the end time of one level is 24 March 2024 10:42 AM, then the start time of the next level must also be 24 March 2024 10:42 AM. If there are even 1-minute gaps, this will cause an error in vTools.
+
+
+# Modificar Evento

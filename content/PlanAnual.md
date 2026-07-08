@@ -3,8 +3,8 @@ title: PlanAnual
 ---
 
 [[index]]
-
-## Video Tutorial - Crear un plan anual
+# Crear un plan anual
+## Video Tutorial 
 [Video Tutorial](https://www.youtube.com/watch?v=V822Udy-bpQ&feature=youtu.be)
 
 ## IEEE Tutorials
