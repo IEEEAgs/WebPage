@@ -3,7 +3,7 @@ title: CrearunEvento
 ---
 
 # Crear un Evento
-[[Home]]
+[[index]]
 # Crear un evento
 ## Video Tutorial
 [Video Tutorial](https://youtu.be/jJXJr2SMHEs?si=Aw08pzxD4IWeVhk0)

@@ -3,7 +3,7 @@ title: PlanAnual
 ---
 
 # Plan Anual
-[[Home]]
+[[index]]
 
 ## Video Tutorial
 [Video Tutorial](https://www.youtube.com/watch?v=V822Udy-bpQ&feature=youtu.be)
