@@ -6,7 +6,7 @@ title: Crear un Evento
 [[Home]]
 # Crear un evento
 ## Video Tutorial
-[Video Tutorial](https://youtu.be/ga5Bo4YdgH4?si=jj-Y7yYC9Kgj3-N_)
+[Video Tutorial](https://youtu.be/jJXJr2SMHEs?si=Aw08pzxD4IWeVhk0)
 
 ## TUtorial
 Iniciar sesion en [IEEE](https://events.vtools.ieee.org/) 
@@ -17,10 +17,10 @@ Rellenar los campos del formulario, y hacer click en "Save as Draft"
 ![alt text](src/Home/image-4.png)
 Aqui aparecen los campos que se deben rellenar, es importante que se maneje un correo de la rama estudiantil, en caso de que sea un evento en colaboración con otra rama estudiantil, rellenar el espacio de Co-Host 
 
-SBC- Capitulo de afinidad student brech
+SBC- Student Branch Chapter (Capitulo de afinidad)
 STB – Student Branch
-WE- WIE Affinity group
-YP- Young Proffesional Affinity group
+WIE- Woman in Engineering Affinity group
+YP- Young Professional Affinity group
 
 ### Location
 The location panel is where you would select whether your event is virtual (e.g., WebEx, Google Meet, ZOOM, etc), in-person at a physical location, or hybrid (both virtual and in-person). If an address is entered, the system will auto-generate a map once you publish the event.
