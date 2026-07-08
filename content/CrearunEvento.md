@@ -3,7 +3,6 @@ title: CrearunEvento
 tag : EventsVtool
 ---
 
-# Crear un Evento
 [[index]]
 # Crear un evento
 ## Video Tutorial
@@ -11,7 +10,7 @@ tag : EventsVtool
 
 ## IEEE Tutorial
 Iniciar sesion en [Events](https://events.vtools.ieee.org/) 
-## Tutorial
+## Tutorial 
 ![alt text](src/Home/image.png)
 Una vez iniciada la sesión, hacer click en "Create Event"
 ![alt text](src/Home/image-1.png)
