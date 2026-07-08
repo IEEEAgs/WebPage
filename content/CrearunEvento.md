@@ -1,5 +1,5 @@
 ---
-title: Crear un Evento
+title: CrearunEvento
 ---
 
 # Crear un Evento
