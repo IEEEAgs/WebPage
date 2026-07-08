@@ -1,5 +1,5 @@
 ---
-title: Plan Anual
+title: PlanAnual
 ---
 
 # Plan Anual
