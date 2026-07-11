@@ -19,10 +19,6 @@ Para editar la pagina web basta con editar los archivos en la carpeta content(We
 
 Para subir la pagina a produccion 
 ```bash
-git add .
-git commit -m "Actualizacion de la pagina"
-git push origin main
-npx quartz build
 npx quartz sync
 ```
 * Siempre se debe trabajar en la rama v5
