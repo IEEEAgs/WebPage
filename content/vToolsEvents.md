@@ -1,15 +1,15 @@
 ---
-title: Crear un Evento
+title: vToolsEvents
 ---
 
-# Crear un Evento
-[[Home]]
+[[index]]
 # Crear un evento
 ## Video Tutorial
-[Video Tutorial](https://youtu.be/ga5Bo4YdgH4?si=jj-Y7yYC9Kgj3-N_)
+[Video Tutorial](https://youtu.be/jJXJr2SMHEs?si=Aw08pzxD4IWeVhk0)
 
-## TUtorial
-Iniciar sesion en [IEEE](https://events.vtools.ieee.org/) 
+## IEEE Tutorial
+Iniciar sesion en [Events](https://events.vtools.ieee.org/) 
+## Tutorial 
 ![alt text](src/Home/image.png)
 Una vez iniciada la sesión, hacer click en "Create Event"
 ![alt text](src/Home/image-1.png)
@@ -17,10 +17,10 @@ Rellenar los campos del formulario, y hacer click en "Save as Draft"
 ![alt text](src/Home/image-4.png)
 Aqui aparecen los campos que se deben rellenar, es importante que se maneje un correo de la rama estudiantil, en caso de que sea un evento en colaboración con otra rama estudiantil, rellenar el espacio de Co-Host 
 
-SBC- Capitulo de afinidad student brech
+SBC- Student Branch Chapter (Capitulo de afinidad)
 STB – Student Branch
-WE- WIE Affinity group
-YP- Young Proffesional Affinity group
+WIE- Woman in Engineering Affinity group
+YP- Young Professional Affinity group
 
 ### Location
 The location panel is where you would select whether your event is virtual (e.g., WebEx, Google Meet, ZOOM, etc), in-person at a physical location, or hybrid (both virtual and in-person). If an address is entered, the system will auto-generate a map once you publish the event.
@@ -32,7 +32,7 @@ If you select “Virtual,” include the link for registrants to access the even
 
 Note: Any links added to the event will be obfuscated from users who are not signed in to vTools. However, if they complete the ReCAPTCHA or sign in with their IEEE Account, the link will then be visible.
 
-## Registro y pago
+### Registro y pago
 ![alt text](src/Home/image-6.png)
 Select either “Standard,” or “External,” registration which would utilize an external registration site such as EventBrite or Cvent. If no registration is required, select “None.”
 
@@ -55,3 +55,6 @@ Example: You can provide discounted pricing to IEEE members and student members.
 ![alt text](src/Home/image-9.png)
 
 Note: If you are using start and end times for registration levels, there can be no gaps between the end time of one level and the start time of another level! E.g. if the end time of one level is 24 March 2024 10:42 AM, then the start time of the next level must also be 24 March 2024 10:42 AM. If there are even 1-minute gaps, this will cause an error in vTools.
+
+
+# Modificar Evento
