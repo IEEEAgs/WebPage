@@ -6,12 +6,28 @@ title: index
 [IEEE Original Link](https://kb.ieee.org/vtools/blog/kb/creating-an-event/)
 
 This wiki is a collaborative platform for sharing knowledge and resources related to the Institute of Electrical and Electronics Engineers (IEEE). Here, you can find information about IEEE events, projects, and initiatives, as well as contribute your own content.
+
 [[GestiondePuestos]]
 
 [[PlanAnual]]
 
 [[vToolsEvents]]
 ## Recursos
+### WebPage
+Para editar la pagina web basta con editar los archivos en la carpeta content(WebPage/content) y luego subir los cambios a la rama v5, para que se despliegue automaticamente en la pagina web.
+
+
+Para subir la pagina a produccion 
+```bash
+git add .
+git commit -m "Actualizacion de la pagina"
+git push origin main
+npx quartz build
+npx quartz sync
+```
+* Siempre se debe trabajar en la rama v5
+
+
 ### BuscaChambas3000
 El [BuscaChambas3000](https://dasreyxr.github.io/Directoriodejales/) es un listado de oportunidades laborales, programas de prácticas profesionales (internships) y certificaciones, orientado principalmente a estudiantes y recién egresados de áreas de ingeniería y tecnología. El proyecto utiliza archivos JSON como fuente de datos y una interfaz web estática para consultar, filtrar, editar y exportar información sin necesidad de un servidor.
 ### VTools
