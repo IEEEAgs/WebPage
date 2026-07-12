@@ -2,7 +2,6 @@
 title: PlanAnual.md
 ---
 
-[[index]]
 # Crear un plan anual
 ## Video Tutorial 
 [Video Tutorial](https://www.youtube.com/watch?v=V822Udy-bpQ&feature=youtu.be)

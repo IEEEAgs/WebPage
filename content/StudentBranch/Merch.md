@@ -1,7 +1,6 @@
 ---
 title: Merch.md
 ---
-[[index]]
 
 
 # Pedir cosas
