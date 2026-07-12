@@ -1,5 +1,5 @@
 ---
-title: PlanAnual
+title: PlanAnual.md
 ---
 
 [[index]]

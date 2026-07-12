@@ -10,7 +10,6 @@ title: vToolsEvents
 ## IEEE Tutorial
 Iniciar sesion en [Events](https://events.vtools.ieee.org/) 
 ## Tutorial 
-![alt text](src/Home/image.png)
 Una vez iniciada la sesión, hacer click en "Create Event"
 ![alt text](src/Home/image-1.png)
 Rellenar los campos del formulario, y hacer click en "Save as Draft"
