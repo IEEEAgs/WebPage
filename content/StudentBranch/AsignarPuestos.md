@@ -1,7 +1,7 @@
 ---
-title: Merch.md
+title: AsignarPuestos.md
 ---
-# [[Asignar Puestos]]
+# Asignar Puestos
 ### IEEE Tutorial
 [Agregar y eliminar puestos](https://kb.ieee.org/vtools/blog/kb/adding-an-officer-to-an-organizational-unit/)
 
