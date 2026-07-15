@@ -38,14 +38,6 @@ flowchart TD
     style AGS fill:#0080C0,stroke:#00629B,stroke-width:2px,color:#fff
 ```
 
-## Organigrama
-* IEEE Region 9
-    * IEEE Section Aguascalientes
-        * Young Professionals
-        * Women in Engineering
-        * Student Branches
-        * Chapters
-
 
 **IEEE Region 9**
 * **Director** - Jose Ignacio Castillo
