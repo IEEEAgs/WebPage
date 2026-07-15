@@ -11,6 +11,34 @@ Esta wiki es una plataforma colaborativa para compartir conocimientos y recursos
 [[vToolsEvents]]
 
 [[vToolsStudentBranch]]
+
+## Organigrama
+* IEEE Region 9
+    * IEEE Section Aguascalientes
+        * Young Professionals
+        * Women in Engineering
+        * Student Branches
+        * Chapters
+
+        
+**IEEE Region 9**
+* **Director** - Jose Ignacio Castillo
+* **Treasurer** - Armando Ruiz
+* **Secretary** - Andrea Jurado
+* **Director Elect** - Jose Cely
+* **Past Director**   - Jennifer Castillo
+
+**IEEE Ags**
+* **Chair** - Julieta Dominguez
+* **Vice Chair** - Alejandro Roman Loera
+* **Secretary** - Enrique Garrido
+* **Treasurer** - Melanie Mata
+* **Student Activities Committee** - Josue Antonio Prieto Olivares
+
+**IEEE Young Professionals**
+* **Chair** - Tania Ramirez
+* **Vice Chair** - David Vitelas
+
 ## Recursos
 ### WebPage
 Para editar la pagina web basta con editar los archivos en la carpeta content(WebPage/content) y luego subir los cambios a la rama v5, para que se despliegue automaticamente en la pagina web.
