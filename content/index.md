@@ -13,6 +13,32 @@ Esta wiki es una plataforma colaborativa para compartir conocimientos y recursos
 [[vToolsStudentBranch]]
 
 ## Organigrama
+
+```mermaid
+flowchart TD
+    %% Definición de Nodos (Fácil de mantener)
+    R9[IEEE Region 9]
+    AGS[IEEE Section Aguascalientes]
+    
+    YP[Young Professionals]
+    WIE[Women in Engineering]
+    SB[Student Branches]
+    CH[Chapters]
+
+    %% Relaciones / Jerarquía
+    R9 --> AGS
+    
+    AGS --> YP
+    AGS --> WIE
+    AGS --> SB
+    AGS --> CH
+
+    %% Estilos opcionales para resaltar los niveles (opcional, Quartz lo adaptará a su tema)
+    style R9 fill:#00629B,stroke:#004B76,stroke-width:2px,color:#fff
+    style AGS fill:#0080C0,stroke:#00629B,stroke-width:2px,color:#fff
+```
+
+## Organigrama
 * IEEE Region 9
     * IEEE Section Aguascalientes
         * Young Professionals
@@ -20,7 +46,7 @@ Esta wiki es una plataforma colaborativa para compartir conocimientos y recursos
         * Student Branches
         * Chapters
 
-        
+
 **IEEE Region 9**
 * **Director** - Jose Ignacio Castillo
 * **Treasurer** - Armando Ruiz
